@@ -1,2 +1,10 @@
 git config --global user.name "username" [setting GIT username]
 git config --global user.email "user.email" [setting GIT email]
+
+
+git status --> list alll unpacked files
+git add -A ---> to add to the staging area
+git commit-m"commit message" ----> 
+remote repository exact copy to local workspace -----> git clone
+remote changes --> Local workspace ---> git pull
+git push LR--->Rmote repositor
