@@ -23,4 +23,4 @@ to push  ---> git push remote_name branch
 eg: git push origin master
 
 
-to list branch ---> git branch
+to list branch ---> git branchh
