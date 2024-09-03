@@ -12,7 +12,7 @@ git commit-m"commit message" ---->
 
 remote repository exact copy to local workspace -----> git clone
 
-remote changes --> Local workspace ---> git pull
+remote changes --> Local workspace ---> git pull remote_name master
 
 git push LR--->Rmote repository
 
@@ -24,3 +24,5 @@ eg: git push origin master
 
 
 to list branch ---> git branchh
+
+git remote -v   ----> to retrive remote name
